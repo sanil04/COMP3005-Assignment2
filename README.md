@@ -1,5 +1,7 @@
 CRUD SQL Student Manager
 
+VIDEO LINK: https://youtu.be/kPJ7_IqN3zs
+
 What it does ?
 This Python script makes a basic app to edit student records in a PostgreSQL database. You can look at all students, add new ones, change emails, or delete students.
 
